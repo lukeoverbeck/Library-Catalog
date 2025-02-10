@@ -22,7 +22,7 @@ Export Data: The catalog can be saved to a CSV file for future use.
 
 File Structure:
 
-LibraryCatalogApp.java - Main entry point for the application.
-Library.java - Handles catalog management, including adding, searching, and exporting items.
-LibraryItem.java - Interface for all library items.
-Book.java, CD.java, DVD.java - Individual item classes with specific attributes.
+LibraryCatalogApp.java: Main entry point for the application.
+Library.java: Handles catalog management, including adding, searching, and exporting items.
+LibraryItem.java: Interface for all library items.
+Book.java, CD.java, DVD.java: Individual item classes with specific attributes.
